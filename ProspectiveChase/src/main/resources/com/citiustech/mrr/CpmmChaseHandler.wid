@@ -1,0 +1,13 @@
+[
+  [
+    "name" : "CpmmChaseHandler", 
+    "parameters" : [
+        "cpmm" : new ObjectDataType("com.citiustech.com.CPMM1")
+    ], 
+    "results" : [
+        "cpmm" : new ObjectDataType("com.citiustech.com.CPMM1") 
+    ], 
+    "displayName" : "CpmmChaseHandler", 
+    "icon" : "" 
+  ]
+]
