@@ -1,0 +1,13 @@
+[
+  [
+    "name" : "CmmChaseHandler", 
+    "parameters" : [ 
+        "cmm" : new ObjectDataType("com.citiustech.mrr.CMM1"),
+    ], 
+    "results" : [ 
+        "cmm" : new ObjectDataType("com.citiustech.mrr.CMM1") 
+    ], 
+    "displayName" : "CmmChaseHandler", 
+    "icon" : "" 
+  ]
+]
